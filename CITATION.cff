@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this work in your research, please cite it as below."
+title: "跨维度交互涌现认知架构：从概率拟合到涉身实践的本体论跨越"
+authors:
+  - name: "beijimao"
+    email: "2551501365@qq.com"
+version: "v2.1"
+date-released: "2026-06-22"
+url: "https://github.com/beijimao/agi"
+keywords:
+  - "cognitive-architecture"
+  - "LLM"
+  - "embodied-imagination"
+  - "topological-intuition"
+
+# Note: This CITATION.cff is for reference; update author names/DOI as needed.
